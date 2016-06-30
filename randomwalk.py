@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 paths = 100
 steps = 100
 
-sigma = 1.0  #volatility
+sigma = 5.0  #volatility
 mu = .05 #drift
 
 dt = 1.0/steps
