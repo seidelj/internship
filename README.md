@@ -16,7 +16,7 @@ Your finished program should print the statistics to the console.  For example "
 * sorted(*iterable*) is a built in function that returns a new sorted list from the items in iterable
 * the timeValues variable is an array_like object, it is also an *iterable*
 * the last item of a list can be access at index [-1]
-* 
+
 ### Bonus Points
 * Calculate the standard deviation
 * Describe in your own words what is happening in lines 1-11.
